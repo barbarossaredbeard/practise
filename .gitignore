@@ -49,3 +49,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+*.filters
+*.log
+*.lastbuildstate
+*.tlog
+*.opensdf
+17.6.24/17.6.24/Bubble sort.c
